@@ -1,4 +1,3 @@
-#profile-update-interval: 1
 [
     {
         "dns": {
@@ -5197,3 +5196,4 @@
         }
     }
 ]
+
